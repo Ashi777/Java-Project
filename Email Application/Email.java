@@ -87,3 +87,4 @@ public class Email
 				"\nMAILBOX CAPACITY: " + mailboxCapacity + "mb");
 	}
 }
+
